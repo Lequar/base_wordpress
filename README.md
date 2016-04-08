@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # [Sage](https://roots.io/sage/)
 [![Build Status](https://travis-ci.org/roots/sage.svg)](https://travis-ci.org/roots/sage)
 [![devDependency Status](https://david-dm.org/roots/sage/dev-status.svg)](https://david-dm.org/roots/sage#info=devDependencies)
@@ -138,11 +136,3 @@ Keep track of development and community news.
 * Follow [@rootswp on Twitter](https://twitter.com/rootswp)
 * Read and subscribe to the [Roots Blog](https://roots.io/blog/)
 * Subscribe to the [Roots Newsletter](https://roots.io/subscribe/)
-=======
-# base_wordpress
- Project base in wordpress
->>>>>>> 72052445546a2f3562351d97b94cfd11d84ad68f
-=======
-# base_wordpress
-Base para el desarrollo de temas en wordpress, con nuevas caracteristicas.
->>>>>>> c4d49d7cf7050ae18938f94c2e1a952da325bb8b
