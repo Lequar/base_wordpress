@@ -1,9 +1,20 @@
-# [Sage](https://roots.io/sage/)
+# [Lequar](http://lequar.com/)
 [![Build Status](https://travis-ci.org/roots/sage.svg)](https://travis-ci.org/roots/sage)
 [![devDependency Status](https://david-dm.org/roots/sage/dev-status.svg)](https://david-dm.org/roots/sage#info=devDependencies)
 
 Sage is a WordPress starter theme based on HTML5 Boilerplate, gulp, Bower, and Bootstrap Sass, that will help you make better themes.
 
+## Instalacion
+* Para la instalacion del tema, debes tener el respositorio de "wordpress_full", si no lo tienes puedes seguir el siguiente enlace: (https://github.com/Lequar/wordpress_full)
+* Lo siguiente es ingresar a la carpeta wp-content/themes/
+* No habra nada en esta carpeta asi que puedes hacer directamente la clonacion del tema.
+```shell
+git clone https://github.com/Lequar/theme_wordpress.git nombre_tema
+```
+* Ya tendras tu tema instalado
+* Ahora debemos configurarlo (Ver secccion "Install gulp and Bower").
+
+## Home
 * Source: [https://github.com/roots/sage](https://github.com/roots/sage)
 * Homepage: [https://roots.io/sage/](https://roots.io/sage/)
 * Documentation: [https://roots.io/sage/docs/](https://roots.io/sage/docs/)
@@ -44,10 +55,6 @@ Install the [Soil](https://github.com/roots/soil) plugin to enable additional fe
 * Google Analytics snippet from [HTML5 Boilerplate](http://html5boilerplate.com/)
 
 See a complete working example in the [roots-example-project.com repo](https://github.com/roots/roots-example-project.com).
-
-## Theme installation
-
-Bottom line is you want to get the files in this repo into your local development environment. There are many ways to do this, two of which we will cover here.
 
 ### via Command-line
 
